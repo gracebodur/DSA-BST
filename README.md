@@ -133,5 +133,8 @@
         - Set the left property of the parent to be the right property of the node to be removed
     - Otherwise, set the root of the tree to be the right property of the node to be removed
 
-[Dijkstra + Bellman-Ford
-Algorithms](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
+[Dijkstra + Bellman-Ford Algorithms](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
+
+[BST Visualization](https://www.cs.usfca.edu/~galles/visualization//BST.html)
+
+[BST VisualAlgo](https://visualgo.net/bn/bst)
